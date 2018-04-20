@@ -37,8 +37,8 @@
 </dependency>
 </dependencies>
 <scm>
-<connection>scm:GIT:https://github.com/kkishorereddy/devops.git</connection>
-<developerConnection>scm:GIT:https://github.com/kkishorereddy/devops.git</developerConnection>
+<connection>scm:github:https://github.com/kkishorereddy/devops.git</connection>
+<developerConnection>scm:github:https://github.com/kkishorereddy/devops.git</developerConnection>
 </scm>
 <distributionManagement>
 <repository>
